@@ -29,3 +29,12 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 
 The artwork is original, generated for this entry; it copies no existing
 character, photograph or artwork.
+
+## Iteration
+
+This is the fourth entry for this competition from the same account. It
+varies the earlier "The Door in the Lake": the same freestanding door in
+the same lake at dusk, but opened much wider so the golden world beyond
+fills the frame, with a stronger teal-versus-gold contrast and a clearer
+little rowboat on the shining path. The idea stays one door, one lake, one
+mood — only the light is bolder.
